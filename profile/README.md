@@ -1,4 +1,4 @@
-<p align="center"><a href="https://spacereimagined.io" target="_blank"><img src="https://raw.githubusercontent.com/spacereimagined/art/master/5%20SVG/3%20rgb/1%20Full%20Color/logo-lockup-rgb-blue.svg" width="400"></a></p>
+<p align="center"><a href="https://spacereimagined.io" target="_blank"><img src="https://raw.githubusercontent.com/spacereimagined/art/master/logo-lockup/5%20SVG/3%20RGB/1%20Full%20Color/logo-lockup-rgb-blue.svg" width="400"></a></p>
 
 ## About Space
 
