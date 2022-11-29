@@ -2,9 +2,6 @@ name: Bump Version
 
 on:
   workflow_call:
-    secrets:
-      token:
-        required: true
 
 jobs:
   bump_version:
